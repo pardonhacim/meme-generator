@@ -13,7 +13,9 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <Meme/>
+      <main className='main'>
+        <Meme/>
+      </main>
       
       
       
